@@ -1,0 +1,15 @@
+
+# model
+*.pt
+*.pth
+*.onnx
+*.tflite
+
+
+# data
+*.png
+*.jpg
+*.jpeg
+
+# folder
+__pycache__
